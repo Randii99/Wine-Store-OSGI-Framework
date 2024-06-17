@@ -6,3 +6,11 @@ In this project there are four publishers and four consmers ,
 2. Wine store manager publisher / consumer
 3. Wine store supplier publisher / consumer
 4. Wine store storekeeper publisher / consumer
+
+------------------------------------------------------------
+
+   Team Members
+   * Jayakody J.A.R.R - Team Leader
+   * Ranaweera S.D
+   * De Silva P. R. P
+   * Dayaratne K.M.A.K.H
