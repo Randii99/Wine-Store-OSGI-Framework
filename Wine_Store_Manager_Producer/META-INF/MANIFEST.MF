@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Wine_Store_Manager_Producer
+Bundle-SymbolicName: Wine_Store_Manager_Producer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: wine_store_manager_producer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: wine_store_manager_producer
